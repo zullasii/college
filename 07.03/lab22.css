@@ -1,0 +1,138 @@
+span.first {
+    display: inline;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+a {
+    display: block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-bottom: 20px;
+}
+
+span.second {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+}
+
+span.third {
+    display: inline-block;
+    height: 100px;
+    border: 1px solid red;
+}
+
+span.fourth {
+    display: inline-block;
+    width: 100px;
+    border: 1px solid red;
+}
+
+div.elem {
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    display: inline-block;
+}
+
+div.parent {
+    border: 1px solid red;
+}
+
+div.child1 {
+    height: 100px;
+    width: 100px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+
+div.child2 {
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+
+div.child3 {
+    height: 100px;
+    width: 300px;
+    border: 1px solid green;
+    margin: 10px auto;
+}
+
+div.parent11 {
+    padding: 10px 0;
+    border: 1px solid red;
+}
+
+div.child11 {
+    height: 100px;
+    width: 200px;
+    border: 1px solid green;
+    margin-left: auto;
+}
+
+div.parent12 {
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid red;
+}
+
+span.child12 {
+    border: 1px solid green;
+}
+
+div.parent13 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: center;
+}
+
+div.parent14 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: right;
+    padding: 10px;
+}
+
+div.parent21 {
+    text-align: center;
+    padding: 10px 0;
+    border: 1px solid red;
+}
+
+span.child21 {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid green;
+}
+
+div.parent22 {
+    text-align: right;
+    padding: 10px 0;
+    border: 1px solid red;
+}
+
+span.child22 {
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid green;
+}
+
+div.parent23 {
+    padding: 10px 0;
+    border: 1px solid red;
+    text-align: center;
+}
+
+div.child23 {
+    padding: 10px;
+    border: 1px solid green;
+    display: inline-block;
+    margin: 0 5px 0;
+}

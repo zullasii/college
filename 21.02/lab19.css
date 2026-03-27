@@ -1,0 +1,127 @@
+#id1 {
+    width: 300px;
+    border: 1px dashed blue;
+}
+
+#id2 {
+    height: 250px;
+    border: 1px solid rgb(228, 156, 22);
+    margin: 30px;
+}
+
+#i1 {
+    width: 400px;
+    border: 1px dashed blue;
+}
+
+#i2 {
+    height: 250px;
+    border: 1px dashed green;
+    margin: 30px;
+}
+
+#i3 {
+    height: 190px;
+    border: 1px solid red;
+    margin: 30px;
+}
+
+#parent {
+    width: 200px;
+    border: 1px solid red;
+}
+
+#child {
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent1 {
+    width: 200px;
+    border: 1px solid red;
+}
+
+#child1 {
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    margin-left: 30px;
+
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent2 {
+    width: 200px;
+    border: 1px solid red;
+}
+
+#child2 {
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+
+    height: 100px;
+    border: 1px solid green;
+}
+
+#parent3 {
+    width: 300px;
+    border: 1px solid rgb(150, 112, 10);
+}
+
+#child3 {
+    height: 100px;
+    border: 1px dashed rgb(95, 12, 112);
+    margin: 50px 70px 130px 10px;
+}
+
+#parent4 {
+    width: 300px;
+    border: 1px solid rgb(150, 112, 10);
+}
+
+#child4 {
+    height: 100px;
+    border: 1px dashed rgb(95, 12, 112);
+    margin: 150px 60px;
+}
+
+#parent5 {
+    width: 300px;
+    border: 1px solid rgb(150, 112, 10);
+}
+
+#child5 {
+    height: 70px;
+    border: 1px dashed rgb(95, 12, 112);
+    margin: 40px 80px;
+}
+
+#parent6 {
+    width: 300px;
+    border: 1px solid rgb(150, 112, 10);
+}
+
+#child6 {
+    height: 100px;
+    border: 1px dashed rgb(95, 12, 112);
+    margin: 160px 60px 60px;
+}
+
+#parent7 {
+    width: 500px;
+    border: 1px solid rgb(150, 112, 10);
+}
+
+#child7 {
+    height: 100px;
+    border: 1px dashed rgb(95, 12, 112);
+    margin: 40px 100px 100px;
+}
