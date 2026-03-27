@@ -1,0 +1,39 @@
+.header{
+    color: red;
+}
+h2.header{
+    font-size: 40px;
+}
+h3.header{
+    font-size: 30px;
+}
+.success{
+    color: green;
+}
+.error{
+    color: red;
+}
+.large{
+    font-size: 30px;
+}
+.small{
+    font-size: 20px;
+}
+.c1{
+    font-size: 50px;
+}
+.c2{
+    color: rgb(66, 138, 197)
+}
+.c3{
+    text-align: center;
+}
+#elem1{
+    color: red
+}
+#elem2{
+    color: green;
+}
+#elem3{
+    color: blue;
+}
